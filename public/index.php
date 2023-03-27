@@ -1,4 +1,10 @@
 <?php
+declare(strict_types=1);
 
-phpinfo();
+echo "TESTING";
+//phpinfo();
+
+//$connection = mysqli_connect('mysql', 'root', 'root');
+/*echo "<pre>";
+var_dump($connection);*/
 
