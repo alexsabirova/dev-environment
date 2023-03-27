@@ -1,1 +1,1 @@
-Developer environment for PHP-nginx-mysql 
+Developer environment: for PHP-nginx-mysql
